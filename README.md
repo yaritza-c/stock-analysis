@@ -15,6 +15,7 @@ In order to determine my analysis, I created a sheet with DQ's daily volume and 
 
 
 ### Analysis of Outcomes Based on Year 2018
+![image](https://user-images.githubusercontent.com/98724851/159207508-14557c74-54f1-464e-82bf-6b44f7703f0e.png)
 
 
 ## Results
