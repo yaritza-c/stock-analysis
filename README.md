@@ -1,5 +1,5 @@
 # stock-analysis
-All Stocks vs DQ (vba)
+All Stocks vs DQ (vba) green energy
 
 ## Overview of Project
 Finding the total daily volume percentage for each stock for the years 2017 and 2018
