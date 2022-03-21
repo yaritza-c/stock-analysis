@@ -11,6 +11,7 @@ The purpose of this analysis is to determine which green energy stock is best to
 In order to determine my analysis, I created a sheet with DQ's daily volume and return. Also, I created a sheet for all stocks daily volume and return. Each one contains the percentages for the years of 2017 and 2018 of each day.
 
 ### Analysis of Outcomes Based on Year 2017
+![image](https://user-images.githubusercontent.com/98724851/159207448-7e5f67fd-fa81-4b51-83a2-0df47ead2742.png)
 
 
 ### Analysis of Outcomes Based on Year 2018
